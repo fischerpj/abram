@@ -5,7 +5,10 @@ params:
   version: SCH2000
 ---
 
-# {{< meta params.refs >}}
+```{r}
+htmltools::h1(params$refs)
+```
+
 
 ```{r}
 XMINPI::bcv_list_(params$refs, params$version)
