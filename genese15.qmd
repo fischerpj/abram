@@ -1,0 +1,12 @@
+---
+params:
+  refs: Gen15
+  refs_after: Rom1:1
+  version: SCH2000
+---
+
+# {{< meta params.refs >}}
+
+```{r}
+XMINPI::bcv_list_(params$refs, params$version)
+```

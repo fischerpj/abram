@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: docs
+  
+execute: 
+  echo: false
+
+book:
+  title: "abram"
+  author: "Jane Doe"
+  date: "4/10/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - genese15.qmd
+    - genese16.qmd
+    - genese17.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub:
+    title: "Abram"
+    author: "Moses"
+    toc: true
+  
+editor: source
+
