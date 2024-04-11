@@ -11,11 +11,17 @@ book:
   date: "4/10/2024"
   chapters:
     - index.qmd
-    - intro.qmd
+    - genese12.qmd
+    - genese13.qmd
+    - genese14.qmd
     - genese15.qmd
     - genese16.qmd
     - genese17.qmd
-    - references.qmd
+    - genese18.qmd
+    - genese19.qmd
+    - rom4.qmd
+    - gal3.qmd
+    - heb7.qmd
 
 bibliography: references.bib
 

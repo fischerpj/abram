@@ -1,0 +1,11 @@
+---
+title: "gal3"
+params:
+  refs: gal3
+  refs_after: Rom1:1
+  version: NGU-DE
+---
+
+```{r}
+XMINPI::bcv_list_(params$refs, params$version)
+```

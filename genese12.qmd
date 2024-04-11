@@ -1,0 +1,11 @@
+---
+title: "Gen12"
+params:
+  refs: Gen12
+  refs_after: Rom1:1
+  version: SCH2000
+---
+
+```{r}
+XMINPI::bcv_list_(params$refs, params$version)
+```

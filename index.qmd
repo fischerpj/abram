@@ -4,4 +4,4 @@ This is a Quarto book displaying in HTML, PDF and EPUB formats.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-
+This book recollects the **life of Abram** from the Bible texts in old and new testaments.
