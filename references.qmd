@@ -1,4 +1,6 @@
 # References {.unnumbered}
 
+Put some cross-refs here to BibleGateway.
+
 ::: {#refs}
 :::

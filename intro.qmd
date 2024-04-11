@@ -1,9 +1,3 @@
 # Introduction
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
-
-```{r}
-1 + 1
-```
+this book recollects the **life of Abram** from the Bible texts in old and new testaments.

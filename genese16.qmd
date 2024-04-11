@@ -1,13 +1,10 @@
 ---
+title: "Gen16"
 params:
   refs: Gen16
   refs_after: Rom1:1
   version: SCH2000
 ---
-
-```{r}
-htmltools::h1(params$refs)
-```
 
 ```{r}
 XMINPI::bcv_list_(params$refs, params$version)
