@@ -33,7 +33,7 @@ format:
   epub:
     title: "Abram"
     author: "the Bible"
-    toc: true
+    toc: false
   
 editor: source
 
